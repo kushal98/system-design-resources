@@ -1,4 +1,4 @@
-# system-design-resources
+# System Design Resources
 
 ### Real World Software Architectures
  - [Full List Of Articles In The Real World Software Architecture Series](https://www.8bitmen.com/full-list-of-articles-in-the-real-world-software-architecture-series/)
