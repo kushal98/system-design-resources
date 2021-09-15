@@ -9,6 +9,8 @@
 
 ### Monolithic Vs Microservice Architecture
 - [A Brief History of Scaling LinkedIn](https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin)
+- [Goodbye Microservices: From 100s of problem children to 1 superstar](https://segment.com/blog/goodbye-microservices/)
+- [Centrifuge: a reliable system for delivering billions of events per day](https://segment.com/blog/introducing-centrifuge/)
  
 ### Platform Monitoring
  - [What is Grafana? Why Use It? Everything You Should Know About It](https://www.8bitmen.com/what-is-grafana-why-use-it-everything-you-should-know-about-it/)
