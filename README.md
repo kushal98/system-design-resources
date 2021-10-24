@@ -22,3 +22,22 @@
  
 ### Platform Monitoring
  - [What is Grafana? Why Use It? Everything You Should Know About It](https://www.8bitmen.com/what-is-grafana-why-use-it-everything-you-should-know-about-it/)
+
+### Useful Articles By Siva
+ - https://github.com/evanw/esbuild
+ - https://medium.com/hackernoon/using-core-node-js-modules-in-react-native-apps-64acd4d07140
+ - https://www.notion.so/blog/sharding-postgres-at-notion
+ - https://engineering.kablamo.com.au/posts/2021/memcached-vs-redis-whats-the-difference
+ - https://developers.redhat.com/articles/2021/09/21/distributed-transaction-patterns-microservices-compared
+ - https://engineering.linkedin.com/blog/2021/taming-memory-fragmentation-in-venice-with-jemalloc
+ - https://codeopinion.com/data-consistency-between-microservices/
+ - https://quarkus.io/blog/why-did-payair-technologies-switch-to-quarkus/
+ - https://javascript.plainenglish.io/will-web-components-replace-frontend-frameworks-535891d779ba
+ - https://www.afasterweb.com/2015/08/29/what-the-jank/
+ - https://scribe.rip/p/what-every-software-engineer-should-know-about-search-27d1df99f80d
+ - https://future.a16z.com/software-style-over-branding/
+ - https://developer.redis.com/howtos/antipatterns/
+ - https://postgrespro.com/blog/pgsql/5967999
+ - https://techcrunch.com/2021/10/19/facebook-reportedly-plans-to-change-its-name-to-focus-on-the-metaverse/
+ - https://www.nytimes.com/2021/10/22/business/shortages-supply-chain.html
+ - https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6
