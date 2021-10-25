@@ -41,3 +41,4 @@
  - https://techcrunch.com/2021/10/19/facebook-reportedly-plans-to-change-its-name-to-focus-on-the-metaverse/
  - https://www.nytimes.com/2021/10/22/business/shortages-supply-chain.html
  - https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6
+ - https://www.infoq.com/presentations/microservices-best-practices/
