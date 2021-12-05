@@ -42,3 +42,22 @@
  - https://www.nytimes.com/2021/10/22/business/shortages-supply-chain.html
  - https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6
  - https://www.infoq.com/presentations/microservices-best-practices/
+ - https://github.com/flutter/flutter/wiki/The-Engine-architecture
+ - https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/saga/saga
+ - https://supabase.com/blog/2021/12/03/pg-graphql
+ - https://softwareengineeringdaily.com/
+ - https://www.dataengineeringpodcast.com/
+ - https://css-tricks.com/responsive-layouts-fewer-media-queries/
+ - https://almanac.httparchive.org/en/2021/performance
+ - https://stfsy.medium.com/?p=c3f501327f09
+ - https://betterprogramming.pub/distributed-locks-with-apache-pulsar-2d95a4d5ff5e
+ - https://betterprogramming.pub/avoiding-premature-software-abstractions-8ba2e990930a
+ - https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/processing-billions-of-events-in-real-time-at-twitter-
+ - https://blog.google/technology/ai/expanding-our-ml-based-flood-forecasting/
+ - https://css-tricks.com/exploring-the-css-paint-api-rounding-shapes/
+ - https://dev.to/0shuvo0/yet-another-js-frameworkhydrogen-169k
+ - https://blog.cloudflare.com/when-bloom-filters-dont-bloom/
+ - https://proxify.io/articles/single-page-app-spa-seo
+ - https://dusted.codes/can-we-trust-microsoft-with-open-source
+ - https://www.infoq.com/presentations/netflix-architecture-new-experiences/
+ - https://www.infoq.com/presentations/microservices-best-practices/
